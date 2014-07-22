@@ -1,0 +1,30 @@
+        
+.header
+{
+    .container
+    {
+        position: relative;
+        height: 75px;
+
+        .logo
+        {
+            position: absolute;
+            left: 2px;
+            top: 5px;
+
+            font-size: 40px;
+            color: #428bca;
+        }
+        .phone
+        {
+            position: absolute;
+            right: 2px;
+            top: 20px;
+
+            font-size: 22px;
+            color: #333;
+        }
+    }
+}        
+
+     

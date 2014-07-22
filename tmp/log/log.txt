@@ -1,0 +1,78 @@
+--- Error: 2014-07-22 12:12:57 ---
+
+Text notification:
+	subject: E_ERROR: Call to undefined function mssql_connect() at C:\xampp\htdocs\tpl\prognoz.php on line 15
+	//localhost/?q=prognoz
+E_ERROR: Call to undefined function mssql_connect()
+at C:\xampp\htdocs\tpl\prognoz.php on line 15
+
+SERVER:
+    array(
+        "MIBDIRS" => "C:/xampp/php/extras/mibs",
+        "MYSQL_HOME" => "\xampp\mysql\bin",
+        "OPENSSL_CONF" => "C:/xampp/apache/bin/openssl.cnf",
+        "PHP_PEAR_SYSCONF_DIR" => "\xampp\php",
+        "PHPRC" => "\xampp\php",
+        "TMP" => "\xampp\tmp",
+        "HTTP_HOST" => "localhost",
+        "HTTP_CONNECTION" => "keep-alive",
+        "HTTP_ACCEPT" => "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "HTTP_USER_AGENT" => "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36",
+        "HTTP_REFERER" => "http://localhost/",
+        "HTTP_ACCEPT_ENCODING" => "gzip,deflate,sdch",
+        "HTTP_ACCEPT_LANGUAGE" => "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4",
+        "HTTP_COOKIE" => "ice.push.browser=1hu51gugk; ice.connection.contextpath=%2Fwd; ice.notified.pushids=; ice.connection.lease=1397799075097; ice.pushids=",
+        "PATH" => "C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\",
+        "SystemRoot" => "C:\Windows",
+        "COMSPEC" => "C:\Windows\system32\cmd.exe",
+        "PATHEXT" => ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+        "WINDIR" => "C:\Windows",
+        "SERVER_SIGNATURE" => "<address>Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.11 Server at localhost Port 80</address>
+    ",
+        "SERVER_SOFTWARE" => "Apache/2.4.9 (Win32) OpenSSL/1.0.1g PHP/5.5.11",
+        "SERVER_NAME" => "localhost",
+        "SERVER_ADDR" => "127.0.0.1",
+        "SERVER_PORT" => "80",
+        "REMOTE_ADDR" => "127.0.0.1",
+        "DOCUMENT_ROOT" => "C:/xampp/htdocs",
+        "REQUEST_SCHEME" => "http",
+        "CONTEXT_PREFIX" => "",
+        "CONTEXT_DOCUMENT_ROOT" => "C:/xampp/htdocs",
+        "SERVER_ADMIN" => "postmaster@localhost",
+        "SCRIPT_FILENAME" => "C:/xampp/htdocs/index.php",
+        "REMOTE_PORT" => "56087",
+        "GATEWAY_INTERFACE" => "CGI/1.1",
+        "SERVER_PROTOCOL" => "HTTP/1.1",
+        "REQUEST_METHOD" => "GET",
+        "QUERY_STRING" => "q=prognoz",
+        "REQUEST_URI" => "/?q=prognoz",
+        "SCRIPT_NAME" => "/index.php",
+        "PHP_SELF" => "/index.php",
+        "REQUEST_TIME_FLOAT" => 1406027577.077,
+        "REQUEST_TIME" => 1406027577,
+    )
+
+COOKIES:
+    array(
+        "ice_push_browser" => "1hu51gugk",
+        "ice_connection_contextpath" => "/wd",
+        "ice_notified_pushids" => "",
+        "ice_connection_lease" => "1397799075097",
+        "ice_pushids" => "",
+    )
+
+GET:
+    array(
+        "q" => "prognoz",
+    )
+
+POST:
+    array(
+    )
+
+SESSION:
+    NULL
+
+
+------------------------------------
+
